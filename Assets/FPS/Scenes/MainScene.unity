@@ -4071,7 +4071,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   app: 0
-  levelName: Custom
+  levelName: BulletSalon
   serverURL: https://dd-telemetry.herokuapp.com/
   enableLogging: 1
 --- !u!4 &2064068178
